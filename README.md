@@ -1,4 +1,4 @@
-# HX_modem
+# HX_modem v0.8.5
 HX modem is my first radio modem project.
 I have't been happy with the performance in a real HF frequency environment.
 The software still lacks development. 
