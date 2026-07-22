@@ -9,7 +9,10 @@ The problem was decoding radio to radio. Even with S3 signal I had CRC errors an
 So I am leaving this open here if anyone wants to take a chance to test and further develop HX.
 HX stands for Hyper eXchange in my initial concept.
 There are two modem speeds. F (fast) N (normal).
-Here is a video I last made with HX when I started testing CAT Hyper eXchange development - CAT control test
+Here is a video I last made with HX when I started testing CAT control on my own FT-710.
+The version in this repository has also a TS-2000 CAT control which I tested for Thetis.
+
+Hyper eXchange development - CAT control test
 https://youtu.be/JMJd4feySQM
 
 73
